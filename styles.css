@@ -1,0 +1,49 @@
+
+:root {
+    font-family: 'Satoshi'
+}
+
+body{
+     text-align: center;
+     margin: 0px;
+     background-color: #0D1B2A;
+     color: #F5F5F0;
+    font-family: 'Satoshi'
+
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: #253551;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    border-radius: 0px 0px 30px 30px;
+
+}
+.navbar a{
+    color: #F5F5F0;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: #415A77
+}
+.navbar li{
+    float: left;
+}
+
+.home-container {
+  background-color: #253551;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  width: 300px;
+  margin: 0 auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  
+}
+
+
