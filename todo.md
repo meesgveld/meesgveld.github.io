@@ -1,14 +1,14 @@
 Vragenlijst t.b.v. studiekeuzecheck
-Question #1 What is your name?
+Question #1 What is your name? .
 1
 Response is requiredResponse is required
 What is your name?
 
-Mees Groeneveld
+Mees Groeneveld 
 Question #2 What is your age?
 2
 Response is requiredResponse is required
-What is your age?
+What is your age? 
 
 20
 Question #3 Where do you live?

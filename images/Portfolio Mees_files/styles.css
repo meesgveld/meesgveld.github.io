@@ -1,0 +1,103 @@
+:root {
+    font-family: 'Satoshi'
+}
+
+body {
+    text-align: center;
+    margin: 0px;
+    background-color: #0D1B2A;
+    color: #F5F5F0;
+    font-family: 'Satoshi'
+
+}
+
+.navbar ul {
+    list-style-type: none;
+    background-color: #253551;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    border-radius: 0px 0px 30px 30px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+
+}
+
+.navbar a {
+    color: #F5F5F0;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover {
+    background-color: #415A77
+}
+
+.navbar li {
+    float: left;
+}
+
+.home-container {
+    background-color: #253551;
+    height: 500px;
+    position: relative;
+    right: 400px;
+    top: 80px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+
+}
+
+.pfp {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.icon-row {
+    display: flex;
+    gap: 16px; 
+    align-items: center;
+    justify-content: center; 
+    margin-top: 10px;
+}
+
+.icons {
+    color: white; 
+    text-decoration: none;
+    transition: transform 0.2s;
+}
+
+.icons:hover {
+    transform: scale(1.1); 
+}
+
+
+.whyict-container {
+    background-color: #253551;
+    position: relative;
+    top: 800px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+
+}
+
+.background-spline{
+ width: 100%;
+ height: 100%;
+ position: center;
+ top: 0px;
+ left: 0px;
+ z-index: -1;
+}
