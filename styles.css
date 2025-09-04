@@ -5,7 +5,7 @@
 body {
     text-align: center;
     margin: 0px;
-    background-color: #151515;
+    background: #151515;
     color: hwb(60 94% 4%);
     z-index: 3;
 
@@ -131,55 +131,40 @@ body {
 
 .aboutme1 {
     background-color: #2f2f2f;
-    height: 100px;
     position: absolute;
     right: 1000px;
     top: 150px;
     border-radius: 30px;
     text-align: center;
-    width: 300px;
-    margin: 0 auto;
+    width: 350px;
+    padding: 10px;
     box-shadow: 0px 40px 40px rgba(0, 0, 0, 0.75);
 }
 
 .aboutme2 {
     background-color: #2f2f2f;
-    height: 100px;
     position: absolute;
     left: 1000px;
     top: 150px;
     border-radius: 30px;
     text-align: center;
-    width: 300px;
-    margin: 0 auto;
+      padding: 10px;
+    width: 350px;
     box-shadow: 0px 40px 40px rgba(0, 0, 0, 0.75);
 }
 
 .aboutme3 {
     background-color: #2f2f2f;
-    height: 100px;
     position: absolute;
     left: 1000px;
-    top: 500px;
+    top: 550px;
     border-radius: 30px;
     text-align: center;
-    width: 300px;
-    margin: 0 auto;
+      padding: 10px;
+    width: 350px;
     box-shadow: 0px 40px 40px rgba(0, 0, 0, 0.75);
 }
 
-.aboutme4 {
-    background-color: #2f2f2f;
-    height: 100px;
-    position: absolute;
-    right: 1000px;
-    top: 500px;
-    border-radius: 30px;
-    text-align: center;
-    width: 300px;
-    margin: 0 auto;
-    box-shadow: 0px 40px 40px rgba(0, 0, 0, 0.75);
-}
 
 .background-profile {
     position: absolute;  
